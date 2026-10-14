@@ -1,4 +1,3 @@
-# AI-Interview-Coach
 # AI Interview Coach 🎯
 
 An AI-powered web application that helps users analyze their resumes against a job description and prepare for interviews.
